@@ -1,0 +1,18 @@
+body {
+    background-color: pink; 
+}
+h1,p{
+    text-align: center;
+    
+}
+
+.links{
+    text-align: center;
+}
+.photo{
+    width:300px;
+    height:408px;
+    display:block;
+    margin: 0 auto;;
+    border-radius: 16px;
+}
